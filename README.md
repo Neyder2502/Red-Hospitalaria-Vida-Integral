@@ -35,13 +35,14 @@ A partir de `Hospital_360_dataset_6000reg.xlsx` (periodo **enero de 2025 – oct
 
 ## Estructura del Proyecto
 
+``` 
 Red-Hospitalaria-Vida-Integral/
 ├── Hospital_360_dataset_6000reg.xlsx   # Fuente de datos en múltiples hojas (fact y dimensiones)
 ├── Proceso_ETL.ipynb                   # Limpieza, validación, ingeniería de variables y exportación a ZIP
 ├── Valdiacion_Estadistica.ipynb        # Pruebas no paramétricas y exportación a Evidencia_Estadistica.xlsx
 ├── Proyecto integrador.docx            # Documento de narrativa en los 8 momentos y recomendaciones
 └── README.md                           # Documentación principal del repositorio
-
+```
 
 ## Flujo de Trabajo y Metodología
 
